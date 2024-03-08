@@ -1,2 +1,2 @@
-# tour-and-travels
-LPU tour and travels
+# travelandtourism-website
+Responsive travel and tourism website using HTML, CSS and JS
